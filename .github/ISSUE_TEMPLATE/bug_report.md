@@ -1,41 +1,30 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+title: Abbreviated error message or problem statement
+labels: bug
+assignees: ""
 ---
 
-# What URL?
+**Describe the bug**
 
-(this helps us know the environment, and the area of the app)
+What did you expect? and what happened instead?
 
-# What were you trying to do? What broke?
+**To Reproduce**
 
-...
+How might we do it again to see/experience the problem?
+(describe in numbered point steps, if possible)
 
-### Screenshot (whole screen, circle relevant area)
+1. ...
+2. ...
+3. ... error
 
-...
+**Device / Machine (please complete):**
 
-### How do we Reproduce it?
+- OS/Device: [ex: Windows 11, macOS Sequoia, Android 15]
+- Arch: [ex: M1, AMD64]
+- Version [ex: v1.0.5]
 
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Additional context**
 
-### Is the OS or Browser relevant?
-
-**Desktop**
-
-- OS: [e.g. Windows]
- - Browser [e.g. Chrome, Safari]
-
-**Smartphone (please complete the following information):**
-
-- Device: [e.g. iPhone 13 Mini]
- - OS: [e.g. iOS 13]
- - Browser [e.g. Stock browser, Safari]
+Add any other context about the problem here - such as screeshots, URLs, error messages, etc.
